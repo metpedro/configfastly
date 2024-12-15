@@ -8,3 +8,4 @@ vless://c5123a26-894c-4f04-8943-056b2d947527@199.232.5.144:443?encryption=none&s
 vless://c5123a26-894c-4f04-8943-056b2d947527@199.232.5.153:443?encryption=none&security=tls&sni=parspack.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=parspack.ir&path=%2FPAbtlbaNU2bMgvhuvTgkd#Fast8
 vless://c5123a26-894c-4f04-8943-056b2d947527@199.232.32.234:443?encryption=none&security=tls&sni=parspack.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=parspack.ir&path=%2FPAbtlbaNU2bMgvhuvTgkd#Fast9
 vless://c5123a26-894c-4f04-8943-056b2d947527@199.232.6.38:443?encryption=none&security=tls&sni=parspack.ir&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=parspack.ir&path=%2FPAbtlbaNU2bMgvhuvTgkd#Fast10
+hysteria2://c5123a26-894c-4f04-8943-056b2d947527@de.abfamtech.com:42166/?sni=de.abfamtech.com&obfs=salamander&obfs-password=nDPDx5n1nRMEquROdwHm73duMlb&insecure=0#Direct%20Hysteria2
